@@ -1,7 +1,7 @@
 ### Hi there, I'm Patrick <img src="assets/catcam.gif" height="20"> 👋 
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
-[![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/95RV5gEVG)
+[![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/AeblWta3P)
 
 [![Years Badge](https://badges.pufler.dev/years/PatRogala)](https://badges.pufler.dev)
 
