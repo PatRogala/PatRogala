@@ -13,10 +13,7 @@
 ### Languages and Tools:
 
 
-<img src="assets/ruby.png" alt="ruby" height="36"/>
-<img src="assets/postman.png" alt="postman" height="36"/>
-<img src="assets/rubyonrails.png" alt="rails" height="36"/>
-<img src="assets/visualstudiocode.png" alt="vsc" height="36"/>
+<img src="assets/ruby.png" alt="ruby" height="36"/><img src="assets/postman.png" alt="postman" height="36"/><img src="assets/rubyonrails.png" alt="rails" height="36"/><img src="assets/visualstudiocode.png" alt="vsc" height="36"/>
 
 ---
 
