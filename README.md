@@ -12,11 +12,11 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="26px" src="assets/visualstudiocode.svg" style="filter: invert(30%) sepia(95%) saturate(3136%) hue-rotate(186deg) brightness(94%) contrast(101%);">  
-<img alt="Visual Studio Code" width="26px" src="assets/ruby.svg" style="filter: invert(25%) sepia(35%) saturate(4259%) hue-rotate(350deg) brightness(105%) contrast(78%);">
-<img alt="Visual Studio Code" width="26px" src="assets/rubyonrails.svg" style="filter: invert(8%) sepia(94%) saturate(7299%) hue-rotate(4deg) brightness(96%) contrast(109%);">
-<img alt="Visual Studio Code" width="26px" src="assets/postman.svg" style="filter: invert(52%) sepia(56%) saturate(2732%) hue-rotate(338deg) brightness(104%) contrast(101%);">
-<img alt="Visual Studio Code" width="26px" src="assets/rubygems.svg" style="filter: invert(49%) sepia(85%) saturate(4004%) hue-rotate(341deg) brightness(99%) contrast(84%);">
+
+<img src="assets/ruby.png" alt="ruby" height="36"/>
+<img src="assets/postman.png" alt="postman" height="36"/>
+<img src="assets/rubyonrails.png" alt="rails" height="36"/>
+<img src="assets/visualstudiocode.png" alt="vsc" height="36"/>
 
 ---
 
