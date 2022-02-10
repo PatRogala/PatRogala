@@ -1,6 +1,6 @@
 ## Hi there <img src="assets/catcam.gif" height="20"> 👋 
 
-I'm Patrick, Fullstack developer from  Warsaw, Poland.
+I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 
 ### You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
@@ -13,10 +13,12 @@ I'm Patrick, Fullstack developer from  Warsaw, Poland.
 [![Years Badge](https://badges.pufler.dev/years/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 
-## I'm a 21yo student and Junior Rubyist from Poland!
+## What i do
 
-- 💻 Currently work at: [@astarium](#)
-- 🚂 I help to build and maintain : [KOLEO](https://koleo.pl/)
+💻 Currently working at: @astarium
+
+🚂 I help build and maintain: 
+[KOLEO.PL](https://koleo.pl/)
 
 ### Languages and Tools
 [![](https://img.shields.io/badge/-Ruby-332B40?style=for-the-badge&logo=ruby)]()
