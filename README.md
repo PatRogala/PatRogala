@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
 [![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/AeblWta3P)
+[![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.pl/)
 
 [![Years Badge](https://badges.pufler.dev/years/PatRogala)](https://badges.pufler.dev)
 
