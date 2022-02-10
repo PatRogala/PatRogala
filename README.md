@@ -6,8 +6,9 @@
 [![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.pl/)
 
 
-### I am on github for
+### My Github Statistics
 [![Years Badge](https://badges.pufler.dev/years/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 
 ## I'm a 21yo student and Junior Rubyist from Poland!
 
