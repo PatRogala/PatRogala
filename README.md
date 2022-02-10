@@ -1,7 +1,10 @@
-## Hi there, I'm Patrick <img src="assets/catcam.gif" height="20"> 👋 
+## Hi there <img src="assets/catcam.gif" height="20"> 👋 
+
+I'm Patrick, Fullstack developer from  Warsaw, Poland.
 
 ### You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
+[![](https://img.shields.io/badge/-facebook-0073B1?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/patryk.rogala.12//) 
 [![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/AeblWta3P)
 [![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.pl/)
 
