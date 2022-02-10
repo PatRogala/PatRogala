@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/AeblWta3P)
 [![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.pl/)
 
-[![Years Badge](https://badges.pufler.dev/years/PatRogala)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 
 ## I'm a 21yo student and Junior Rubyist from Poland!
 
