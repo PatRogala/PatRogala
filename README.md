@@ -32,6 +32,11 @@ I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 [![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
 
 
----
+### Currently I am doing
+| Repository      | Description |
+| ----------------| ----------- |
+| [Personal Repository](https://github.com/PatRogala/PatRogala)|I am trying to upgrade my main github profile repository with some nice badges and extras|
+| [App Academy Open](https://github.com/PatRogala/app-academy-open-tasks)|Here I post my solutions to each App Academy Open assignment with daily updated code statistics|
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatRogala&show_icons=true&theme=slateorange)
