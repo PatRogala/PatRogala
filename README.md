@@ -13,6 +13,10 @@ I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 [![Years Badge](https://badges.pufler.dev/years/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatRogala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![PatRogala's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatRogala&hide=contribs,prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What i do
 
 💻 Currently working at: @astarium
@@ -37,6 +41,3 @@ I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 | ----------------| ----------- |
 | [Personal Repository](https://github.com/PatRogala/PatRogala)|I am trying to upgrade my main github profile repository with some nice badges and extras|
 | [App Academy Open](https://github.com/PatRogala/app-academy-open-tasks)|Here I post my solutions to each App Academy Open assignment with daily updated code statistics|
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatRogala&show_icons=true&theme=slateorange)
