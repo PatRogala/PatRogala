@@ -2,20 +2,11 @@
 
 I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 
-### You can find me on
+### 🌐 You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
 [![](https://img.shields.io/badge/-facebook-0073B1?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/patryk.rogala.12//) 
 [![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://resume.io/r/AeblWta3P)
 [![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.pl/)
-
-
-### My Github Statistics
-[![Years Badge](https://badges.pufler.dev/years/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/PatRogala?style=for-the-badge)](https://badges.pufler.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatRogala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![PatRogala's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatRogala&hide=contribs,prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What i do
 
@@ -41,3 +32,16 @@ I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
 | ----------------| ----------- |
 | [Personal Repository](https://github.com/PatRogala/PatRogala)|I am trying to upgrade my main github profile repository with some nice badges and extras|
 | [App Academy Open](https://github.com/PatRogala/app-academy-open-tasks)|Here I post my solutions to each App Academy Open assignment with daily updated code statistics|
+
+### 📊 My Github Statistics
+[![](https://visitcount.itsvg.in/api?id=PatRogala&icon=0&color=1)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api?username=PatRogala&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PatRogala&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatRogala&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PatRogala&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
