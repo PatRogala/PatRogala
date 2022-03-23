@@ -1,6 +1,6 @@
 ## Hi there <img src="assets/catcam.gif" height="20"> 👋 
 
-I'm Patrick, 21 yoars old Fullstack developer from  Warsaw, Poland.
+I'm Patrick, 21 years old Fullstack developer from  Warsaw, Poland.
 
 ### 🌐 You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
