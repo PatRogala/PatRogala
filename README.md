@@ -12,7 +12,7 @@ I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
 
 💻 Currently working at: @astarium
 
-🚂 I help build and maintain: 
+🚂 I help to build and maintain: 
 [KOLEO.PL](https://koleo.pl/)
 
 ### Languages and Tools
