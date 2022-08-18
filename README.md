@@ -42,7 +42,3 @@ I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PatRogala&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
