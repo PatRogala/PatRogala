@@ -32,6 +32,7 @@ I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
 | ----------------| ----------- |
 | [Personal Repository](https://github.com/PatRogala/PatRogala)|I am trying to upgrade my main github profile repository with some nice badges and extras|
 | [App Academy Open](https://github.com/PatRogala/Open-App-Academy)|Here I post my solutions to each App Academy Open assignment with daily updated code statistics|
+| [CS50x 2022](https://github.com/PatRogala/CS50x-2022)|Here I post my solutions to each CS50 assignment|
 
 ### 📊 My Github Statistics
 [![](https://visitcount.itsvg.in/api?id=PatRogala&icon=0&color=1)](https://visitcount.itsvg.in)
