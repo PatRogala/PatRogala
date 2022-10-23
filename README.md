@@ -2,6 +2,7 @@
 
 I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
 
+
 ### 🌐 You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
 [![](https://img.shields.io/badge/-facebook-0073B1?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/patryk.rogala.12//) 
