@@ -1,6 +1,6 @@
 ## Hi there <img src="assets/catcam.gif" height="20"> 👋 
 
-I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
+I'm Patrick, Ruby on Rails developer from Warsaw, Poland.
 
 
 ### 🌐 You can find me on
@@ -26,14 +26,6 @@ I'm Patrick, 21 years old Ruby on Rails developer from  Warsaw, Poland.
 [![](https://img.shields.io/badge/-vscode-332B40?style=for-the-badge&logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/-postman-332B40?style=for-the-badge&logo=postman)]()
 [![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
-
-
-### Currently I am doing
-| Repository      | Description |
-| ----------------| ----------- |
-| [Personal Repository](https://github.com/PatRogala/PatRogala)|I am trying to upgrade my main github profile repository with some nice badges and extras|
-| [App Academy Open](https://github.com/PatRogala/Open-App-Academy)|Here I post my solutions to each App Academy Open assignment with daily updated code statistics|
-| [CS50x 2022](https://github.com/PatRogala/CS50x-2022)|Here I post my solutions to each CS50 assignment|
 
 ### 📊 My Github Statistics
 [![](https://visitcount.itsvg.in/api?id=PatRogala&icon=0&color=1)](https://visitcount.itsvg.in)
