@@ -2,6 +2,10 @@
 
 I'm Patrick, Ruby on Rails developer from Warsaw, Poland.
 
+I am a passionate and dedicated Ruby on Rails developer with a strong foundation in web development and a keen interest in continuous learning. I have completed several projects using Ruby on Rails, and I am constantly seeking new challenges and opportunities to expand my skills and knowledge. I am excited to bring my skills and enthusiasm to any team and contribute to the development of innovative and impactful web applications.
+
+👉 Check [My Personal Site](https://patrykrogala.pl)
+
 
 ### 🌐 You can find me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
