@@ -27,9 +27,12 @@ I am a passionate and dedicated Ruby on Rails developer with a strong foundation
 [![](https://img.shields.io/badge/-html5-332B40?style=for-the-badge&logo=html5)]()
 [![](https://img.shields.io/badge/-css3-332B40?style=for-the-badge&logo=css3)]()
 [![](https://img.shields.io/badge/-javascript-332B40?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/-postgresql-332B40?style=for-the-badge&logo=postgresql)]()
 [![](https://img.shields.io/badge/-vscode-332B40?style=for-the-badge&logo=visualstudiocode)]()
 [![](https://img.shields.io/badge/-postman-332B40?style=for-the-badge&logo=postman)]()
 [![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
+[![](https://img.shields.io/badge/-github-332B40?style=for-the-badge&logo=github)]()
+[![](https://img.shields.io/badge/-bitbucket-332B40?style=for-the-badge&logo=bitbucket)]()
 
 ### 📊 My Github Statistics
 [![](https://visitcount.itsvg.in/api?id=PatRogala&icon=0&color=1)](https://visitcount.itsvg.in)
