@@ -7,11 +7,10 @@ I am a passionate and dedicated Ruby on Rails developer with a strong foundation
 👉 Check [My Personal Site](https://patrykrogala.dev)
 
 ### 🌐 You can find me on
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/) 
-[![](https://img.shields.io/badge/-facebook-0073B1?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/patryk.rogala.12/) 
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrogala/)  
 [![](https://img.shields.io/badge/-resume-332B40?style=for-the-badge)](https://patrykrogala.dev/assets/CV.pdf)
 [![](https://img.shields.io/badge/-website-E0615F?style=for-the-badge)](https://patrykrogala.dev/)
-[![](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube)]([https://patrykrogala.dev/](https://www.youtube.com/@patryk_rogala))
+[![](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@patryk_rogala)
 
 ## What i do
 
