@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ruby on Rails Developer
 -----------------------
 
-I'm a Ruby on Rails developer with 2+ years of experience. One of the unique aspects of my professional journey is my commitment to sharing knowledge and fostering the growth of others. I'm dedicated, team-oriented, and committed to delivering high-quality projects. I'm eager to contribute my skills to your organization and excel in web development.
+I'm a Ruby on Rails developer with 3+ years of experience. One of the unique aspects of my professional journey is my commitment to sharing knowledge and fostering the growth of others. I'm dedicated, team-oriented, and committed to delivering high-quality projects. I'm eager to contribute my skills to your organization and excel in web development.
 
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [patrykrogala.dev](http://patrykrogala.dev/)
