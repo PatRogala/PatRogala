@@ -1,3 +1,4 @@
+<img align="center" src="./assets/github.png" />
 <h2 align="left">Hi!, I'm Patryk, a Polish Ruby on Rails Developer 👋🏼</h2>
 
 ###
