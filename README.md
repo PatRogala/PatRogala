@@ -1,61 +1,31 @@
-<img align="center" src="./assets/github.png" />
-<h2 align="left">Hi!, I'm Patryk, a Polish Ruby on Rails Developer 👋🏼</h2>
+# Patryk Rogala
 
-###
+> A software engineer with a passion for building solid backend systems in Ruby on Rails. I thrive on the dual challenge of modernizing large-scale legacy codebases and architecting clean, scalable applications from scratch. My curiosity for complex systems has also led me into game development with Unreal Engine 5, an experience that continually inspires my approach to creative problem-solving.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatRogala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PatRogala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### My Toolkit
 
-<img align="right" height="150" src="./assets/catcam.gif"  />
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp; Ruby, Ruby on Rails, PostgreSQL, Sidekiq
 
-###
+**DevOps** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker, Kamal, CI/CD, Git
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="30" alt="rspec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+**Frontend** &nbsp;&nbsp;&nbsp;&nbsp; Hotwire (Stimulus & Turbo), JavaScript, Tailwind CSS
 
-###
+**Other** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unreal Engine 5, C++, RSpec
 
-<div align="left">
-  <a href="https://www.youtube.com/@patryk_rogala" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/patrykrogala.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/patrogala/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### Selected Work
 
-<br clear="both">
+*   **[EduForge](https://github.com/PatRogala/eduforge)** — A modern e-learning platform built with Rails 8, Hotwire, and deployed via Kamal.
+*   **Project Limina** — A multiplayer horror game developed in Unreal Engine 5, exploring real-time lighting with Lumen.
+*   **[Core Developer on KOLEO](https://koleo.pl/)** — Led a critical migration of a massive legacy Rails app (4.2 → 6.1) for Poland's leading railway ticket platform.
 
-<img src="https://raw.githubusercontent.com/PatRogala/PatRogala/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### Let's Connect
+
+**Portfolio** &nbsp;&nbsp;→&nbsp;&nbsp; [patrykrogala.dev](https://patrykrogala.dev/)
+
+**LinkedIn** &nbsp;&nbsp;→&nbsp;&nbsp; [Patryk Rogala](https://www.linkedin.com/in/patrogala/)
