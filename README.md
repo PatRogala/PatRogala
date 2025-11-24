@@ -1,31 +1,37 @@
-# Patryk Rogala
+<div align="center">
 
-> A software engineer with a passion for building solid backend systems in Ruby on Rails. I thrive on the dual challenge of modernizing large-scale legacy codebases and architecting clean, scalable applications from scratch. My curiosity for complex systems has also led me into game development with Unreal Engine 5, an experience that continually inspires my approach to creative problem-solving.
+# Hi, I'm Patryk Rogala 👋
 
----
+### Backend Architect & Game Developer
 
-### My Toolkit
+[![Portfolio](https://img.shields.io/badge/Portfolio-patrykrogala.dev-000?style=for-the-badge&logo=firefox&logoColor=white)](https://patrykrogala.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrogala/)
 
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp; Ruby, Ruby on Rails, PostgreSQL, Sidekiq
+<br />
 
-**DevOps** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker, Kamal, CI/CD, Git
+> I thrive on the dual challenge of **modernizing large-scale legacy systems** and architecting clean, scalable applications in **Ruby on Rails**. <br> My curiosity also leads me into **Unreal Engine 5**, exploring creative problem-solving in 3D space.
 
-**Frontend** &nbsp;&nbsp;&nbsp;&nbsp; Hotwire (Stimulus & Turbo), JavaScript, Tailwind CSS
+<br />
 
-**Other** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unreal Engine 5, C++, RSpec
+### 🛠 The Toolkit
 
----
+| **Core Backend** | **DevOps & Infra** | **Frontend** | **Game Dev & Low Level** |
+| :--- | :--- | :--- | :--- |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) <br> ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Sidekiq](https://img.shields.io/badge/Sidekiq-C62A71?style=flat-square&logo=sidekiq&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kamal](https://img.shields.io/badge/Kamal-Deployment-000?style=flat-square&logo=rubyonrails&logoColor=white) <br> ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Hotwire](https://img.shields.io/badge/Hotwire-Stimulus_%26_Turbo-FFE000?style=flat-square&logo=javascript&logoColor=black) <br> ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![UE5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![RSpec](https://img.shields.io/badge/RSpec-Testing-b8182c?style=flat-square&logo=rubygems&logoColor=white) |
 
-### Selected Work
+<br />
 
-*   **[EduForge](https://github.com/PatRogala/eduforge)** — A modern e-learning platform built with Rails 8, Hotwire, and deployed via Kamal.
-*   **Project Limina** — A multiplayer horror game developed in Unreal Engine 5, exploring real-time lighting with Lumen.
-*   **[Core Developer on KOLEO](https://koleo.pl/)** — Led a critical migration of a massive legacy Rails app (4.2 → 6.1) for Poland's leading railway ticket platform.
+### 🏆 Selected Works
 
----
+</div>
 
-### Let's Connect
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[EduForge](https://github.com/PatRogala/eduforge)** | A modern e-learning platform using the cutting edge of the Rails ecosystem. | `Rails 8` `Hotwire` `Kamal` |
+| **Project Limina** | Multiplayer horror game exploring real-time lighting with Lumen. | `Unreal Engine 5` `C++` `Lumen` |
+| **[KOLEO](https://koleo.pl/)** | **(Core Dev)** Led the critical migration (4.2 → 6.1) for Poland's leading railway platform. | `Legacy Refactor` `Architecture` |
 
-**Portfolio** &nbsp;&nbsp;→&nbsp;&nbsp; [patrykrogala.dev](https://patrykrogala.dev/)
-
-**LinkedIn** &nbsp;&nbsp;→&nbsp;&nbsp; [Patryk Rogala](https://www.linkedin.com/in/patrogala/)
+<div align="center">
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=PatRogala&show_icons=true&theme=radical&hide_border=true" height="160px" alt="Patryk's Github Stats" />
+</div>
