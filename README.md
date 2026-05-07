@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **[EduForge](https://github.com/PatRogala/eduforge)** | A modern e-learning platform using the cutting edge of the Rails ecosystem. | `Rails 8` `Hotwire` `Kamal` |
 | **Project Limina** | Multiplayer horror game exploring real-time lighting with Lumen. | `Unreal Engine 5` `C++` `Lumen` |
-| **[KOLEO](https://koleo.pl/)** | **(Core Dev)** Led the critical migration (4.2 → 6.1) for Poland's leading railway platform. | `Legacy Refactor` `Architecture` |
+| **[KOLEO](https://koleo.pl/)** | **(Core Dev)** Led the critical migration (4.2 → 7.0) for Poland's leading railway platform. | `Legacy Refactor` `Architecture` |
 
 <div align="center">
 <br />
